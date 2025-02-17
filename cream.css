@@ -1,0 +1,151 @@
+body{
+ height: 1000vh;
+
+}
+
+nav {
+    background-color: #343a40;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+.ICECREAM {
+    background-position: center;
+      width:100%;
+      height: 1100px;
+     background-size: cover;
+     background-image: url(https://img.freepik.com/free-photo/decoration-waffle-cone-with-aalaw-sprinkles-blue-backdrop_23-2148190457.jpg?semt=ais_hybrid);
+     background-attachment: auto;
+}
+.ice-menu{
+    font-size: xxx-large;
+    text-align: center;
+
+    border: 10px rgb(0, 0, 0)  ;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    padding: 20px;
+
+    margin-top: 20px;
+    margin: 20px 0;
+}
+.ice-menu h1{
+    background:  rgb(251, 146, 246);
+    background: scroll;
+    color: rgb(228, 28, 28);
+    text-align: center;
+    font-family: fantasy;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 0, 0);
+    text-transform: none;
+    letter-spacing: 0.em;
+    word-spacing: 0em;
+
+
+}
+.MILKSHAKES{
+    background-position: bottom;
+    width: 100%;
+    height: 16%;
+   background-size: cover;
+   background-image: url(https://wallpapercave.com/wp/wp3216103.jpg);
+   background-attachment: auto;
+
+}
+.MILKSHAKES{font-size: xxx-large;
+
+
+
+    color:crimson;
+    border: 10px rgb(0, 0, 0)  ;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    padding: 20px;
+
+    margin-top: 10px;
+    margin: 20px 0;
+
+}
+.MILKSHAKES h1{
+   
+   
+    color: rgb(228, 28, 28);
+    text-align: justify;
+    font-family: fantasy;
+    font-weight: 500;
+    font-style: italic;
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-color: rgb(255, 255, 255);
+    text-transform: none;
+    letter-spacing: 0.em;
+    word-spacing: 0em;
+
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border-top: 2px solid #e9ecef;
+    font-family: Arial, sans-serif;
+    color: #343a40;
+}
+
+.footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+#contact {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border-top: 2px solid #e9ecef;
+    font-family: Arial, sans-serif;
+    color: #343a40;
+}
+
+#contact a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
